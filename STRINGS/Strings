@@ -1,0 +1,25 @@
+METODOS
+
+capitalize(): devuelve una copia de la cadena con la primera letra en mayúscula y el resto en minúscula.
+lower(): devuelve una copia de la cadena con todas las letras en minúscula.
+upper(): devuelve una copia de la cadena con todas las letras en mayúscula.
+title(): devuelve una copia de la cadena con la primera letra de cada palabra en mayúscula.
+strip(): devuelve una copia de la cadena con los espacios en blanco eliminados al principio y al final.
+split(): devuelve una lista de las palabras de la cadena separadas por espacios en blanco.
+join(iterable): devuelve una cadena que es la concatenación de los elementos de un iterable (por ejemplo, una lista o una tupla), separados por la cadena original.
+replace(old, new): devuelve una copia de la cadena con todas las apariciones de la subcadena "old" reemplazadas por la subcadena "new".
+count(substring): devuelve el número de veces que la subcadena "substring" aparece en la cadena.
+startswith(prefix): devuelve True si la cadena comienza con el prefijo especificado, de lo contrario, devuelve False.
+endswith(suffix): devuelve True si la cadena termina con el sufijo especificado, de lo contrario, devuelve False.
+index(substring): devuelve el índice de la primera aparición de la subcadena "substring" en la cadena. Si no se encuentra, se genera una excepción ValueError.
+find(substring): devuelve el índice de la primera aparición de la subcadena "substring" en la cadena. Si no se encuentra, devuelve -1.
+
+ATRIBUTOS
+
+len(): devuelve la longitud de la cadena (es decir, el número de caracteres que contiene).
+isalpha(): devuelve True si la cadena contiene solo letras, de lo contrario, devuelve False.
+isdigit(): devuelve True si la cadena contiene solo dígitos, de lo contrario, devuelve False.
+isalnum(): devuelve True si la cadena contiene solo letras y/o dígitos, de lo contrario, devuelve False.
+isspace(): devuelve True si la cadena contiene solo espacios en blanco, de lo contrario, devuelve False.
+startswith(prefix): devuelve True si la cadena comienza con el prefijo especificado, de lo contrario, devuelve False.
+endswith(suffix): devuelve True si la cadena termina con el sufijo especificado, de lo contrario, devuelve False.

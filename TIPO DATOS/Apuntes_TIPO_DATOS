@@ -1,0 +1,48 @@
+TIPOS DE DATOS
+
+PRIMITIVOS
+int  = -0.2 ,55
+float = 23.7
+str = "hola"
+bool = True
+........................
+OPERADORES
+........................
+
+ARITMÉTICOS
+suma (+)
+resta (-)
+multiplicación (*)
+division_resto (/)
+division_entera (//)
+exponenciación (**)
+
+ASIGNACION                      
+==
++=
+-=
+*=
+/=
+//=
+**=
+
+COMPARACION
+igual ==
+menor <
+mayor >
+distinto !=
+menor que <=
+mayor que >=
+
+LOGICOS
+and    ambos son true
+or      una es true
+not     invierte resultado
+
+
+IDENTIDAD
+compara la posicion de memoria de dos objetos y no su contenido
+is  a[1.2.3] b=a devuelve True
+is not a[123] b[123] a is not b devuelve True porque no ocupan la misma posicion
+
+
